@@ -39,5 +39,5 @@ The database schema consists of several tables to organize and manage data effec
 ## Contributors
 [![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
 - MIT License
-- [Mohammed Mostafa](https://github.com/mo7ammedd)
-- [Omar Mohammed](https://github.com/omarmohamedpt)
+- [Omar Mohamed](https://github.com/omarmohamedpt)
+- [Mohamed Mostafa](https://github.com/mo7ammedd)
